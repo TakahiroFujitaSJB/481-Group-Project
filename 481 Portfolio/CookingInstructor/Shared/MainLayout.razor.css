@@ -1,0 +1,16 @@
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
